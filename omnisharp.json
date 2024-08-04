@@ -1,0 +1,12 @@
+{
+    "FormattingOptions": {
+        "EnableEditorConfigSupport": true,
+        "OrganizeImports": true,
+        "SortUsings": true
+    },
+    "RoslynExtensionsOptions": {
+        "EnableAnalyzersSupport": true,
+        "EnableEditorConfigSupport": true,
+        "LocationPaths": []
+    }
+}
